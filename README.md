@@ -1,3 +1,3 @@
 # Fortran---Supermarket-Queue-Simulator
 
-Autor: Matheus Campos
+Coded by: Matheus Campos
